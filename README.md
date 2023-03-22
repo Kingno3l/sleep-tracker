@@ -75,6 +75,14 @@ As you go through the course, you'll be instructed to clone the different exerci
 git clone https://github.com/udacity/REPOSITORY_NAME.git
 ```
 
+**Step 2: Check out the step branch**
+
+As you go through different steps in the code, you'll be told which step you're on, as well as a link to the corresponding branch.
+
+You'll want to check out the branch associated with that step. The command to check out a branch would be:
+
+```bash
+git checkout BRANCH_NAME
 ```
 
 **Step 3: Find and complete the TODOs**
